@@ -18,7 +18,7 @@ Workshop
 
 <div class="flex justify-center">
 
-![x-logo](images%2Fx-logo.gif)
+![x-logo](./images%2Fx-logo.gif)
 
 </div>
 
@@ -117,7 +117,7 @@ The X Components package
   </div>
   <div>
 
-![x-components-pck.png](images%2Fx-components-pck.png)
+![x-components-pck.png](./images/x-components-pck.png)
 
   </div>
 </div>
@@ -538,7 +538,7 @@ The Empathize is a modal-like container intended to show search suggestions to t
 
 It's a module because it's a core part of the search experiences, normally pared with the action of searching. Many behaviors of the application depend on checking if the Empathize is open or not, so the module provides that information.
 
-![empathize.png](images%2Fempathize.png)
+![empathize.png](./images%2Fempathize.png)
 
 <!--
 * Usually shown when focus on the search box.
@@ -730,7 +730,7 @@ There are also individual components to render the different types of filters in
   </div>
   <div class="flex justify-center">
 
-![facets.png](images%2Ffacets.png)
+![facets.png](./images%2Ffacets.png)
 
   </div>
 </div>
@@ -868,7 +868,7 @@ Basic approach for the module is a list of the suggestions coming from the histo
   </div>
   <div class="flex justify-center">
 
-![history-queries.png](images%2Fhistory-queries.png)
+![history-queries.png](./images%2Fhistory-queries.png)
 
   </div>
 </div>  
@@ -972,7 +972,7 @@ The components in the module are straight-forward rendering list for the list of
 
 <div class="flex justify-center">
 
-![sku.png](images%2Fsku.png)
+![sku.png](./images%2Fsku.png)
 
 </div>
 
@@ -998,7 +998,7 @@ On top of the next query terms, the module can also request and store a preview 
 
 <div class="flex justify-center">
 
-![next-queries.png](images%2Fnext-queries.png)
+![next-queries.png](./images%2Fnext-queries.png)
 
 </div>
 
@@ -1105,7 +1105,7 @@ Popular searches can be requested at any time as they don't depend on the curren
 
 <div class="flex justify-center">
 
-![popular-searches.png](images%2Fpopular-searches.png)
+![popular-searches.png](./images%2Fpopular-searches.png)
 
 </div>
 
@@ -1125,7 +1125,7 @@ them stored in the module so they're customizable and easily edited is a core pa
 
 <div class="flex justify-center">
 
-![queries-preview.png](images%2Fqueries-preview.png)
+![queries-preview.png](./images%2Fqueries-preview.png)
 
 </div>
 
@@ -1239,7 +1239,7 @@ The module's wiring checks when the user is typing a query to send the requests 
 
   <div class="flex justify-center">
   
-![query-suggestions.png](images%2Fquery-suggestions.png)
+![query-suggestions.png](./images%2Fquery-suggestions.png)
   
   </div>
 </div>
@@ -1266,7 +1266,7 @@ as results in a simple way.
 
 <div class="flex justify-center">
 
-![top-clicked.png](images%2Ftop-clicked.png)
+![top-clicked.png](./images%2Ftop-clicked.png)
 
 </div>
 
@@ -1291,7 +1291,7 @@ They are treated as buttons instead of suggestions, so the components for render
 
 <div class="flex justify-center">
 
-![related-tags.png](images%2Frelated-tags.png)
+![related-tags.png](./images%2Frelated-tags.png)
 
 </div>
 
@@ -1436,7 +1436,7 @@ It handles everything related to the request to the search adapter. It's the end
 
 <div class="flex justify-center">
 
-![search.png](images%2Fsearch.png)
+![search.png](./images%2Fsearch.png)
 
 </div>
 
@@ -1595,7 +1595,7 @@ Also, the module keeps track of the actions made by the user with a state machin
 
 <div class="flex justify-center">
 
-![search-bar.png](images%2Fsearch-bar.png)
+![search-bar.png](./images%2Fsearch-bar.png)
 
 </div>
 
@@ -1653,7 +1653,7 @@ This is a suggestions module and as such roughly follows the same structure as t
 
 <div class="flex justify-center">
 
-![semantic-queries.png](images%2Fsemantic-queries.png)
+![semantic-queries.png](./images%2Fsemantic-queries.png)
 
 </div>
 
@@ -1800,7 +1800,7 @@ Renderless component parses the URL parameters and emits the events to update th
 
 <div class="flex justify-center">
 
-![url.png](images%2Furl.png)
+![url.png](./images%2Furl.png)
 
 </div>
 
@@ -1937,12 +1937,12 @@ The custom components are bundles of styles that modify the look and feel of the
 <div grid="~ cols-2 gap-4">
   <div>
 
-![theme.png](images%2Ftheme.png)
+![theme.png](./images%2Ftheme.png)
 
   </div>
   <div>
 
-![theme-components.png](images%2Ftheme-components.png)
+![theme-components.png](./images%2Ftheme-components.png)
 
   </div>
 </div>
@@ -1959,14 +1959,14 @@ The variants can be color variants, size variants, styling variants (outlined, g
 
 | **Button**       | **Color Variant** | **Style Variant** | **Color+Style Variant** |
 |------------------|-------------------|-------------------|-------------------------|
-| ![btn.png](images%2Fbtn.png)          |    ![btn-color.png](images%2Fbtn-color.png)|![ghost-btn.png](images%2Fghost-btn.png) |![ghst-color-btn.png](images%2Fghst-color-btn.png) | 
+| ![btn.png](./images%2Fbtn.png)          |    ![btn-color.png](./images%2Fbtn-color.png)|![ghost-btn.png](./images%2Fghost-btn.png) |![ghst-color-btn.png](./images%2Fghst-color-btn.png) | 
 
 
 ---
 
 ## XDS Showcase
 
-![XDS-showcase.png](images%2FXDS-showcase.png)
+![XDS-showcase.png](./images%2FXDS-showcase.png)
 
 <!--
 Run x-tailwind locally
@@ -2150,7 +2150,7 @@ Clicks:
 
 <div class="flex h-full justify-center items-center">
 
-![x-logo](images%2Fx-logo.gif)
+![x-logo](./images%2Fx-logo.gif)
 
 </div>
 
@@ -2242,6 +2242,6 @@ Clicks:
 
 <div class="flex h-full justify-center items-center">
 
-![x-logo](images%2Fx-logo.gif)
+![x-logo](./images%2Fx-logo.gif)
 
 </div>
